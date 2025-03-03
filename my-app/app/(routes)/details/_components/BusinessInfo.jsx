@@ -51,9 +51,3 @@ function BusinessInfo({ business }) {
 }
 
 export default BusinessInfo;
-
-
-
-
-
-
